@@ -1,0 +1,193 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.bosh{
+   display: flex;
+   height: 17vh;
+   align-items: center;
+   justify-content: space-evenly;
+   background-color: rgb(255, 235, 205);
+}
+
+input{
+    height: 20%;
+    width: 20%;
+}
+
+span{
+    margin-left: -185px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.bosh button{
+    padding: 4px 20px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
+.yangi{
+    background-color: rgb(1, 1, 32);
+    width: 88.2%;
+    height: 8vh;
+    display: flex;
+    padding: 1px 100px;
+    align-items:center;
+   text-align: center;
+}
+
+.yangi span{
+    color: orangered;
+    margin-left: 30px;
+}
+
+a{
+  margin-left: 120px;
+  color: white;
+  text-decoration: none;
+}
+
+.ales{
+    background-color: rgb(194, 183, 183);
+    width: 300px;
+    height: 80px;
+}
+
+.ales h4{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ales h3{
+    position: absolute;
+    margin-left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.uli{
+    position: absolute;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.turnir{
+    display: flex;
+    justify-content: space-around;
+}
+
+.past{
+    background-color:rgb(194, 183, 183);
+    text-align: center;
+    width: 1545px;
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+.super{
+    background-image: url(1598241938_superliga-uzbekistana.jpg);
+    width: 1000px;
+    height: 600px;
+    margin-left: 60px;
+    padding: 1px;
+}
+
+.jojo{
+    width: 500px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 80px;
+    padding: 1px;
+  
+}
+
+.jojo h2{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-top: 50px;
+}
+.jojo h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.jojo span{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    margin-right: -150px;
+    padding: 1px;
+}
+
+.real img{
+    margin-left:85px;
+    position: absolute;
+   
+    
+}
+.erta{
+    display: flex;
+}
+
+
+.real h1{
+    margin-left: 180px;
+    margin-top: 30px;
+    background-color:sandybrown;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    width:200px;
+}
+
+.real1 h1{
+    margin-left: 180px;
+    margin-top: 30px;
+    background-color:sandybrown;
+    border-radius: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    width:200px;
+}
+
+.real1 img{
+    margin-top: -20px;
+    margin-left: 52px;
+}
+
+.tavsiya{
+    width: 400px;
+    height: 400px;
+   margin-left: 1150px;
+   margin-top: -350px;
+   background-color:grey;
+    text-align: center;
+}
+
+
+.tavsiya h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 3px solid black;
+    width: 300px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.tavsiya p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
