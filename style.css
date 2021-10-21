@@ -1,6 +1,8 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 .bosh{
@@ -291,6 +293,80 @@ td{
     width: 400px;
 
 }
+
+
+.mk1{
+    margin-top: -350px;
+    border: 3px solid orangered;
+    padding: 5px 15px;
+    font-weight: bold;
+}
+.nub{
+    position: absolute;
+    margin-top: -220px;
+    margin-left: 390px;
+    background-color: white;
+    padding: 2px 30px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.hub{
+    margin-top: -200px;
+    justify-content: space-between;
+    width: 800px;
+    margin-left: 50px;
+    display: flex;
+
+}
+.hub2{
+    justify-content: space-between;
+    width: 800px;
+    margin-left: 50px;
+    display: flex;
+}  
+.rasm {
+    width: 200px;
+    height: 150px;
+    background-image: url(./photo_2019-11-23_15-02-51-1068x713.jpg);
+    background-position: center;
+}
+.rasm h5 {
+    color: white;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    margin-top: 60%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.der{
+    border: 3px solid grey;
+    width: 900px;
+    margin-left: 50px;
+    height: 200px;
+    padding-top: 250px;
+    margin-top: -200px;
+
+}
+.inna{
+    display: flex;
+    justify-content: space-around;
+    width: 1400px;
+    margin-left: 80px;
+}
+
+.para{
+    width:1400px;
+    margin-left: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
 
 
 
